@@ -1,4 +1,4 @@
-# 💫 About Me
+## 💫 About Me
 🛠 Skills: Python (PyTorch, TensorFlow, NumPy, Scikit-learn), C++, DSA, ML & DL workflows  
 💡 Experience: Building deep learning models, implementing pipelines, optimizing algorithms  
 🧠 Interests: LLMs, transformer architectures, scalable AI systems  
@@ -60,10 +60,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Swetabh-Sinha&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ## 🚀 GitHub Contribution Graph
-![Contribution Graph](## 🚀 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swetabh-Sinha&theme=react-dark&area=true)
-)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
