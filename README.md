@@ -59,6 +59,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Swetabh-Sinha&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
+## 🚀 GitHub Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swetabh-Sinha&custom_title=Swetabh%20Sinha's%20Contribution%20Graph&theme=github-dark-dimmed&area=true&hide_border=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
