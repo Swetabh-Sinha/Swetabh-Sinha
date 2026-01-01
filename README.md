@@ -1,5 +1,5 @@
 ## 💫 About Me
-🛠 Skills: Python (PyTorch, TensorFlow, NumPy, Scikit-learn), C++, DSA, ML & DL workflows  
+🛠 Skills: Python (PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn), C++, DSA, ML & DL workflows  
 💡 Experience: Building deep learning models, implementing pipelines, optimizing algorithms  
 🧠 Interests: LLMs, transformer architectures, scalable AI systems  
 📚 Currently learning: Advanced DL algorithms, model optimization, practical deployment  
